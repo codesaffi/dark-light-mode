@@ -1,0 +1,18 @@
+.toggle-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .dark-mode .toggle-button {
+    background-color: #fff;
+    color: #121212;
+  }
+  
+  .light-mode .toggle-button {
+    background-color: #121212;
+    color: #fff;
+  }
+  
